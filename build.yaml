@@ -14,6 +14,6 @@
 ---
 include:
   - board: nrfmicro_13_52833
-    shield: corne_left
+    shield: pala_left
   - board: nrfmicro_13_52833
-    shield: corne_right
+    shield: pala_right
